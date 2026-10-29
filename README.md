@@ -25,4 +25,4 @@ node index.js
 3. Le résultat est affiché dans le terminal.
 
 ## Auteur
-Arthur IRIE, apprenant de la DFS
+Arthur IRIE, apprenant de la DFS.
